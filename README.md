@@ -1,1 +1,1 @@
-This collection hgihlight the b2b validation documentation
+This document outlines the technical requirements for merchants to integrate with WayaBank's unified webhook system.
